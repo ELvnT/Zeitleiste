@@ -164,11 +164,11 @@ In einem Land wie DE, das mit [40000 Toten jährlich alleine durch Krankenhauske
 
 Wenn man diese Randbedingungen berücksichtigt, muß die oben erwähnte "falsch positiv"-Quote nochmals deutlich höher als die vermuteten 3/4 sein, da ein Teil der "Corona-Toten" ihrerseits schon auf falsch positive Testergebnisse zurückgeht.
 
-## Zeitlos
+## Rückblick in die Prä-Corona-Zeit
 
-  * Wer in der Lage ist, sich an vergangene eigene grippale Infekte zu erinnern, dem ist klar, dass die medial aufgebauschte "neuartige" Corona-Symptomatik Geruchs- und Geschmacksverlust Standard ist. Wer sich nicht erinnern kann, muß eben im Web suchen: ["Anosmie"](https://duckduckgo.com/?q=Anosmie&t=hk&ia=web), ["sinusitis geruchsverlust"](https://duckduckgo.com/?q=sinusitis+geruchsverlust&t=hk&ia=web). Auch, dass diese Verluste nach Vireninfektionen für immer anhalten können, [ist leider nichts Neues](https://archive.md/Z9jo0#selection-315.423-315.601) ([Studie von 2013 dazu](https://archive.md/wip/9FKiS))
-  * Auch das Risiko von Thrombosen und Lungenembolien ist [nichts wirklich Neues](https://archive.md/xNrms), speziell wenn man Wochen an ein Klinikbett gefesselt ist.
-  * Schon immer galt die Empfehlung, sich gut auzukurieren nach Grippe oder grippalem Infekt, damit andere Organe nicht in Mitleidenschaft gezogen werden. Wir haben sogar Namen für das Phänomen: ["Wenn Viren zu Herz und Nieren wandern, sagt man dazu verschleppte Erkältung oder verschleppte Grippe."](https://archive.md/6Aw3n#selection-1563.0-1563.101)
+  * Wer in der Lage ist, sich an vergangene eigene grippale Infekte zu erinnern, dem ist klar, dass die medial aufgebauschte "neuartige" Corona-Symptomatik Geruchs- und Geschmacksverlust altbekannt ist. Wer sich nicht erinnern kann, sollte im Web suchen: ["Anosmie"](https://duckduckgo.com/?q=Anosmie&t=hk&ia=web), ["sinusitis geruchsverlust"](https://duckduckgo.com/?q=sinusitis+geruchsverlust&t=hk&ia=web). Auch, dass diese Verluste nach Vireninfektionen für immer anhalten können, [ist leider nichts Neues](https://archive.md/Z9jo0#selection-315.423-315.601) ([Studie von 2013 dazu](https://archive.md/wip/9FKiS)).
+  * Auch die "Corona-Novität" eines erhöhten Risiko von Thrombosen und Lungenembolien ist nichts wirklich Neues (beispielhaft [Studie von 2009](https://archive.md/xNrms)), wenn man Wochen an ein Klinikbett gefesselt ist.
+  * Schon immer galt die Empfehlung, sich gut auszukurieren nach Grippe oder grippalem Infekt, damit andere Organe nicht in Mitleidenschaft gezogen werden. Wir hatten sogar Namen für das Phänomen: ["Wenn Viren zu Herz und Nieren wandern, sagt man dazu verschleppte Erkältung oder verschleppte Grippe."](https://archive.md/6Aw3n#selection-1563.0-1563.101). In 2020 wird einem nun erzählt, das gäbe es erst jetzt auf einmal Dank eines neuen und heimtückischen Virus.
   * Grippewellen der Vorjahre: In Ländern mit bereits völlig kaputtgespartem/privatisiertem Gesundheitssystem bricht wie praktisch jeden Winter die Krankenhausversorgung zusammen (die verstörenden Bilder aus Italien, Madrid und New York, mit denen uns die Medien im März 2020 traktierten, sind dort leider Normalzustand seit vielen Jahren):
     * 2015 [liegen Grippepatienten in Madrid in den Gängen herum](https://archive.md/46pXX).
     * 2017 [fragt eine Zeitung ironisch, warum im Spanischen das Wort Grippe Kollaps bedeutet](https://archive.md/BTTEx).
@@ -181,7 +181,7 @@ Wenn man diese Randbedingungen berücksichtigt, muß die oben erwähnte "falsch 
     * Grippewelle 2018: [Krematorium schlägt Alarm - ARD Brisant 13.03.2018](https://www.youtube.com/watch?v=I6fLjiiHZjA).
     * März 2019: [katastrophale Überbelegung der Kliniken in Madrid](https://archive.md/yastK).
     * In der Lombardei ist [die typische Auslastung der Intensivstationen bei 85%-90% in den Wintermonaten](https://archive.md/C42sR#selection-2725.131-2725.201). Wieviel Reserve da für einen Panikausbruch ist, kann man sich leicht ausrechnen.
-    * (Bertelsmann-Stiftung, Leopoldina und Politiker wie bspw. [Karl Lauterbach](https://youtu.be/Y7RSS-UNxPg?t=157) arbeiten aber schon seit Längerem intensiv daran, dass diese Zustände auch bei uns zum Standard werden).
+    * (Bertelsmann-Stiftung, Leopoldina und Politiker wie bspw. [Karl Lauterbach](https://youtu.be/Y7RSS-UNxPg?t=157) arbeiten aber schon seit Längerem intensiv daran, dass diese Zustände auch bei uns zum Normalzustand werden).
   * In Deutschland sterben jeden Tag im Durchschnitt +2500 Menschen.
   * davon sterben im Durchschnitt +2200 Menschen im Alter +65 (jeden Tag).
   * davon sterben im Durchschnitt +1000 Menschen im Alter +80 (jeden Tag).
