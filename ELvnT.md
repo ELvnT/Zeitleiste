@@ -169,7 +169,7 @@ Wenn man diese Randbedingungen berücksichtigt, muß die oben erwähnte "falsch 
 
 ## Rückblick in die Prä-Corona-Zeit
 
-![Die Leitmedien schüren schon 2009 mit der Schweinegruppe maximale Panik](graphs/bild-hetze-oktober-2009.jpg)
+![Die Leitmedien schüren schon 2009 mit der Schweinegrippe maximale Panik](graphs/bild-hetze-oktober-2009.jpg)
 
 *(vertraute Bilder: auch 2009 während der Schweinegrippe-"Pandemie" übten sich Experten und Medien in maximaler Panikmache. Laut Statista [belief sich die Anzahl der Todesfälle im Zusammenhang mit der Schweinegrippe bis zum April 2010 auf 253](https://archive.md/6FmNY))*
 
